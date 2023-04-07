@@ -1,0 +1,7 @@
+E:\Test\obj\Release\net6.0\PubTmp\Out\Test.exe
+E:\Test\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Test\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Test\obj\Release\net6.0\PubTmp\Out\Test.dll
+E:\Test\obj\Release\net6.0\PubTmp\Out\Test.deps.json
+E:\Test\obj\Release\net6.0\PubTmp\Out\Test.runtimeconfig.json
+E:\Test\obj\Release\net6.0\PubTmp\Out\Test.pdb
